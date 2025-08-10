@@ -1,0 +1,26 @@
+id,title,company,location,description,posted_date,apply_url
+1,Data Analyst,TechNova Solutions,Bangalore,"We are looking for a Data Analyst proficient in SQL, Python, and Tableau. Must be able to work with large datasets and provide actionable insights.",2025-08-01,https://example.com/apply/1
+2,Machine Learning Engineer,AIgen Labs,Remote,"Seeking ML Engineer with experience in Scikit-learn, TensorFlow, and cloud deployment. Knowledge of NLP and model optimization is a plus.",2025-07-28,https://example.com/apply/2
+3,Data Scientist,InsightCorp,Mumbai,"Looking for a Data Scientist to develop predictive models using Python and R. Experience with Pandas, NumPy, and visualization tools required.",2025-08-02,https://example.com/apply/3
+4,Business Intelligence Analyst,FinScope Analytics,Hyderabad,"Role involves building dashboards in Power BI, analyzing KPIs, and writing SQL queries. Strong business acumen preferred.",2025-07-30,https://example.com/apply/4
+5,Data Engineer,CloudWorks Pvt Ltd,Delhi,"Responsible for designing ETL pipelines, managing data warehouses, and ensuring data quality. Skills in SQL, Spark, and AWS required.",2025-08-03,https://example.com/apply/5
+6,Junior Data Analyst,NextGen Tech,Chennai,"Entry-level role for candidates familiar with Excel, SQL, and basic Python scripting. Training will be provided.",2025-08-01,https://example.com/apply/6
+7,AI Research Intern,DeepMind India,Bangalore,"Assist in AI research projects focusing on reinforcement learning and generative AI. Proficiency in Python required.",2025-07-29,https://example.com/apply/7
+8,ETL Developer,DataBridge Solutions,Delhi,"Design and manage ETL workflows using Talend and SQL Server. Experience in data warehouse projects preferred.",2025-07-31,https://example.com/apply/8
+9,Data Visualization Specialist,VizTech,Mumbai,"Create interactive dashboards using Tableau and Power BI. Strong storytelling skills essential.",2025-08-01,https://example.com/apply/9
+10,NLP Engineer,TextAI Labs,Remote,"Develop and fine-tune NLP models for sentiment analysis and text classification. Experience with Hugging Face Transformers required.",2025-08-02,https://example.com/apply/10
+11,Cloud Data Engineer,ByteCloud,Bangalore,"Manage cloud-based data pipelines on AWS and Azure. Experience with Spark, Glue, and Redshift essential.",2025-08-03,https://example.com/apply/11
+12,Statistical Analyst,MarketEdge,Hyderabad,"Analyze market trends using R and Python statistical libraries. Strong knowledge of regression and hypothesis testing required.",2025-07-28,https://example.com/apply/12
+13,Senior Data Scientist,AIWorks,Chennai,"Lead data science projects involving deep learning and computer vision. Experience with TensorFlow, Keras, and large datasets mandatory.",2025-07-30,https://example.com/apply/13
+14,Data Quality Specialist,DataSure Pvt Ltd,Delhi,"Monitor and improve data quality across multiple systems. Knowledge of data governance and SQL required.",2025-08-01,https://example.com/apply/14
+15,BI Developer,InsightSoft,Remote,"Build BI solutions using Power BI, DAX, and SQL. Collaborate with business teams for requirement gathering.",2025-07-29,https://example.com/apply/15
+16,ML Ops Engineer,ModelOps Tech,Bangalore,"Automate ML pipelines using MLflow and Kubernetes. Strong understanding of CI/CD for ML models required.",2025-08-02,https://example.com/apply/16
+17,Data Architect,InfoStruct,Hyderabad,"Design scalable data architectures and advise on data storage solutions. Expertise in SQL and NoSQL systems required.",2025-07-31,https://example.com/apply/17
+18,Data Analyst - Healthcare,MedData Analytics,Chennai,"Analyze healthcare datasets to identify trends and improve patient care. Knowledge of healthcare terminologies preferred.",2025-07-28,https://example.com/apply/18
+19,GenAI Prompt Engineer,Promptify Labs,Remote,"Design and test prompts for generative AI applications. Experience with LLM APIs like OpenAI or Gemini preferred.",2025-08-01,https://example.com/apply/19
+20,Quantitative Analyst,FinQuant,Mumbai,"Use statistical models for financial forecasting. Proficiency in Python, R, and risk modeling required.",2025-07-30,https://example.com/apply/20
+21,Data Steward,DataCare Pvt Ltd,Delhi,"Ensure compliance with data governance policies. Strong attention to detail and SQL skills needed.",2025-08-02,https://example.com/apply/21
+22,AI Solutions Architect,NeuroNet Solutions,Bangalore,"Design AI solutions for enterprise clients. Experience with cloud AI services (AWS Sagemaker, GCP AI Platform) essential.",2025-08-03,https://example.com/apply/22
+23,Power BI Consultant,BIPro Solutions,Hyderabad,"Develop complex Power BI reports and optimize DAX queries for performance.",2025-07-31,https://example.com/apply/23
+24,Python Data Developer,CodeData Pvt Ltd,Chennai,"Build data processing scripts and APIs using Python, Pandas, and FastAPI.",2025-08-01,https://example.com/apply/24
+25,Big Data Engineer,HadoopTech,Mumbai,"Develop and maintain big data solutions using Hadoop, Hive, and Spark. Knowledge of Kafka is a plus.",2025-07-29,https://example.com/apply/25

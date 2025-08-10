@@ -1,0 +1,16 @@
+playwright
+pandas
+streamlit
+python-dotenv
+langchain
+langchain-google-genai
+chromadb
+faiss-cpu
+sentence-transformers
+pdfplumber
+tiktoken
+beautifulsoup4
+selenium
+langchain_community
+# Uncomment if using Groq
+# groq
